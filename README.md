@@ -1,4 +1,6 @@
 # 2023Spring-C-_Programming
-Spring 2023 C++Programming Assistant
+NUDT: Spring 2023 C++Programming Assistant
 
-###### Chapter 1 - Introduction
+###### Chapter 1
+###### Chapter 2
+###### Chapter 4
